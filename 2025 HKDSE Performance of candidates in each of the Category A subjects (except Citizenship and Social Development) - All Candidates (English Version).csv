@@ -1,0 +1,163 @@
+﻿No.,Subject,Subject_2,Gender,Type,No. Entered,No. Sat,Chinese Version %,Performance - 5**,Performance - 5*+,Performance - 5+,Performance - 4+,Performance - 3+,Performance - 2+,Performance - 1+,Performance - U
+1,Biology,,Male,Number,7066,6711,,184,669,1547,3391,5031,6135,6486,225
+2,Biology,,Male,Percentage,,,44.2,2.7%,10.0%,23.1%,50.5%,75.0%,91.4%,96.6%,3.4%
+3,Biology,,Female,Number,8541,8154,,112,501,1339,3472,5857,7489,7937,217
+4,Biology,,Female,Percentage,,,40.3,1.4%,6.1%,16.4%,42.6%,71.8%,91.8%,97.3%,2.7%
+5,Biology,,Total,Number,15607,14865,,296,1170,2886,6863,10888,13624,14423,442
+6,Biology,,Total,Percentage,,,42.1,2.0%,7.9%,19.4%,46.2%,73.2%,91.7%,97.0%,3.0%
+7,"Business, Accounting and Financial Studies",Accounting,Male,Number,3575,3326,,60,204,501,1387,2318,2984,3219,107
+8,"Business, Accounting and Financial Studies",Accounting,Male,Percentage,,,44.3,1.8%,6.1%,15.1%,41.7%,69.7%,89.7%,96.8%,3.2%
+9,"Business, Accounting and Financial Studies",Accounting,Female,Number,3724,3535,,47,197,489,1511,2506,3236,3458,77
+10,"Business, Accounting and Financial Studies",Accounting,Female,Percentage,,,35.5,1.3%,5.6%,13.8%,42.7%,70.9%,91.5%,97.8%,2.2%
+11,"Business, Accounting and Financial Studies",Accounting,Total,Number,7299,6861,,107,401,990,2898,4824,6220,6677,184
+12,"Business, Accounting and Financial Studies",Accounting,Total,Percentage,,,39.8,1.6%,5.8%,14.4%,42.2%,70.3%,90.7%,97.3%,2.7%
+13,"Business, Accounting and Financial Studies",Business Management,Male,Number,1488,1404,,8,43,77,368,812,1232,1319,85
+14,"Business, Accounting and Financial Studies",Business Management,Male,Percentage,,,74.2,0.6%,3.1%,5.5%,26.2%,57.8%,87.7%,93.9%,6.1%
+15,"Business, Accounting and Financial Studies",Business Management,Female,Number,1611,1537,,16,52,141,489,1016,1405,1487,50
+16,"Business, Accounting and Financial Studies",Business Management,Female,Percentage,,,75.2,1.0%,3.4%,9.2%,31.8%,66.1%,91.4%,96.7%,3.3%
+17,"Business, Accounting and Financial Studies",Business Management,Total,Number,3099,2941,,24,95,218,857,1828,2637,2806,135
+18,"Business, Accounting and Financial Studies",Business Management,Total,Percentage,,,74.7,0.8%,3.2%,7.4%,29.1%,62.2%,89.7%,95.4%,4.6%
+19,Chemistry,,Male,Number,8547,7994,,283,994,2238,4326,6269,7051,7649,345
+20,Chemistry,,Male,Percentage,,,34.1,3.5%,12.4%,28.0%,54.1%,78.4%,88.2%,95.7%,4.3%
+21,Chemistry,,Female,Number,6841,6408,,108,458,1310,2988,4746,5523,6095,313
+22,Chemistry,,Female,Percentage,,,28.3,1.7%,7.1%,20.4%,46.6%,74.1%,86.2%,95.1%,4.9%
+23,Chemistry,,Total,Number,15388,14402,,391,1452,3548,7314,11015,12574,13744,658
+24,Chemistry,,Total,Percentage,,,31.5,2.7%,10.1%,24.6%,50.8%,76.5%,87.3%,95.4%,4.6%
+25,Chinese History,,Male,Number,2878,2642,,46,131,350,930,1681,2330,2514,128
+26,Chinese History,,Male,Percentage,,,-,1.7%,5.0%,13.2%,35.2%,63.6%,88.2%,95.2%,4.8%
+27,Chinese History,,Female,Number,3913,3701,,42,205,519,1453,2571,3386,3587,114
+28,Chinese History,,Female,Percentage,,,-,1.1%,5.5%,14.0%,39.3%,69.5%,91.5%,96.9%,3.1%
+29,Chinese History,,Total,Number,6791,6343,,88,336,869,2383,4252,5716,6101,242
+30,Chinese History,,Total,Percentage,,,-,1.4%,5.3%,13.7%,37.6%,67.0%,90.1%,96.2%,3.8%
+31,Chinese Language,,Male,Number,25194,24585,,193,700,1812,6249,13761,20913,23509,1076
+32,Chinese Language,,Male,Percentage,,,-,0.8%,2.8%,7.4%,25.4%,56.0%,85.1%,95.6%,4.4%
+33,Chinese Language,,Female,Number,23616,23121,,432,1589,3604,9769,16789,21508,22722,399
+34,Chinese Language,,Female,Percentage,,,-,1.9%,6.9%,15.6%,42.3%,72.6%,93.0%,98.3%,1.7%
+35,Chinese Language,,Total,Number,48810,47706,,625,2289,5416,16018,30550,42421,46231,1475
+36,Chinese Language,,Total,Percentage,,,-,1.3%,4.8%,11.4%,33.6%,64.0%,88.9%,96.9%,3.1%
+37,Chinese Literature,,Male,Number,361,321,,3,15,36,89,187,263,298,23
+38,Chinese Literature,,Male,Percentage,,,-,0.9%,4.7%,11.2%,27.7%,58.3%,81.9%,92.8%,7.2%
+39,Chinese Literature,,Female,Number,1129,1075,,22,75,180,434,780,981,1047,28
+40,Chinese Literature,,Female,Percentage,,,-,2.0%,7.0%,16.7%,40.4%,72.6%,91.3%,97.4%,2.6%
+41,Chinese Literature,,Total,Number,1490,1396,,25,90,216,523,967,1244,1345,51
+42,Chinese Literature,,Total,Percentage,,,-,1.8%,6.4%,15.5%,37.5%,69.3%,89.1%,96.3%,3.7%
+43,Design and Applied Technology,,Male,Number,373,347,,2,7,17,63,128,273,315,32
+44,Design and Applied Technology,,Male,Percentage,,,89.3,0.6%,2.0%,4.9%,18.2%,36.9%,78.7%,90.8%,9.2%
+45,Design and Applied Technology,,Female,Number,171,158,,1,4,9,29,58,127,148,10
+46,Design and Applied Technology,,Female,Percentage,,,88.0,0.6%,2.5%,5.7%,18.4%,36.7%,80.4%,93.7%,6.3%
+47,Design and Applied Technology,,Total,Number,544,505,,3,11,26,92,186,400,463,42
+48,Design and Applied Technology,,Total,Percentage,,,88.9,0.6%,2.2%,5.1%,18.2%,36.8%,79.2%,91.7%,8.3%
+49,Economics,,Male,Number,6720,6331,,157,546,1237,2880,4314,5398,5908,423
+50,Economics,,Male,Percentage,,,49.2,2.5%,8.6%,19.5%,45.5%,68.1%,85.3%,93.3%,6.7%
+51,Economics,,Female,Number,7146,6840,,83,348,983,2885,4663,5951,6501,339
+52,Economics,,Female,Percentage,,,42.2,1.2%,5.1%,14.4%,42.2%,68.2%,87.0%,95.0%,5.0%
+53,Economics,,Total,Number,13866,13171,,240,894,2220,5765,8977,11349,12409,762
+54,Economics,,Total,Percentage,,,45.5,1.8%,6.8%,16.9%,43.8%,68.2%,86.2%,94.2%,5.8%
+55,English Language,,Male,Number,26292,25575,,208,852,2199,6375,13084,19635,22909,2666
+56,English Language,,Male,Percentage,,,-,0.8%,3.3%,8.6%,24.9%,51.2%,76.8%,89.6%,10.4%
+57,English Language,,Female,Number,24619,24066,,271,1028,2521,7057,13542,19601,22442,1624
+58,English Language,,Female,Percentage,,,-,1.1%,4.3%,10.5%,29.3%,56.3%,81.4%,93.3%,6.7%
+59,English Language,,Total,Number,50911,49641,,479,1880,4720,13432,26626,39236,45351,4290
+60,English Language,,Total,Percentage,,,-,1.0%,3.8%,9.5%,27.1%,53.6%,79.0%,91.4%,8.6%
+61,Ethics and Religious Studies,,Male,Number,367,336,,0,6,24,85,190,293,307,29
+62,Ethics and Religious Studies,,Male,Percentage,,,94.0,0.0%,1.8%,7.1%,25.3%,56.5%,87.2%,91.4%,8.6%
+63,Ethics and Religious Studies,,Female,Number,560,526,,10,29,61,196,395,501,514,12
+64,Ethics and Religious Studies,,Female,Percentage,,,96.8,1.9%,5.5%,11.6%,37.3%,75.1%,95.2%,97.7%,2.3%
+65,Ethics and Religious Studies,,Total,Number,927,862,,10,35,85,281,585,794,821,41
+66,Ethics and Religious Studies,,Total,Percentage,,,95.7,1.2%,4.1%,9.9%,32.6%,67.9%,92.1%,95.2%,4.8%
+67,Geography,,Male,Number,4051,3824,,54,172,423,1251,2329,3235,3647,177
+68,Geography,,Male,Percentage,,,65.9,1.4%,4.5%,11.1%,32.7%,60.9%,84.6%,95.4%,4.6%
+69,Geography,,Female,Number,4461,4287,,49,217,564,1627,2879,3827,4180,107
+70,Geography,,Female,Percentage,,,56.9,1.1%,5.1%,13.2%,38.0%,67.2%,89.3%,97.5%,2.5%
+71,Geography,,Total,Number,8512,8111,,103,389,987,2878,5208,7062,7827,284
+72,Geography,,Total,Percentage,,,61.2,1.3%,4.8%,12.2%,35.5%,64.2%,87.1%,96.5%,3.5%
+73,Health Management and Social Care,,Male,Number,636,586,,3,12,27,93,221,430,524,62
+74,Health Management and Social Care,,Male,Percentage,,,95.2,0.5%,2.0%,4.6%,15.9%,37.7%,73.4%,89.4%,10.6%
+75,Health Management and Social Care,,Female,Number,1004,952,,8,20,46,199,497,800,901,51
+76,Health Management and Social Care,,Female,Percentage,,,92.4,0.8%,2.1%,4.8%,20.9%,52.2%,84.0%,94.6%,5.4%
+77,Health Management and Social Care,,Total,Number,1640,1538,,11,32,73,292,718,1230,1425,113
+78,Health Management and Social Care,,Total,Percentage,,,93.5,0.7%,2.1%,4.7%,19.0%,46.7%,80.0%,92.7%,7.3%
+79,History,,Male,Number,2659,2470,,40,126,317,1029,1780,2281,2412,58
+80,History,,Male,Percentage,,,71.8,1.6%,5.1%,12.8%,41.7%,72.1%,92.3%,97.7%,2.3%
+81,History,,Female,Number,3083,2935,,41,156,379,1336,2267,2769,2899,36
+82,History,,Female,Percentage,,,60.9,1.4%,5.3%,12.9%,45.5%,77.2%,94.3%,98.8%,1.2%
+83,History,,Total,Number,5742,5405,,81,282,696,2365,4047,5050,5311,94
+84,History,,Total,Percentage,,,65.8,1.5%,5.2%,12.9%,43.8%,74.9%,93.4%,98.3%,1.7%
+85,Information and Communication Technology,,Male,Number,4976,4718,,77,281,673,1662,2913,4049,4461,257
+86,Information and Communication Technology,,Male,Percentage,,,57.5,1.6%,6.0%,14.3%,35.2%,61.7%,85.8%,94.6%,5.4%
+87,Information and Communication Technology,,Female,Number,1640,1562,,10,42,141,449,867,1328,1484,78
+88,Information and Communication Technology,,Female,Percentage,,,43.5,0.6%,2.7%,9.0%,28.7%,55.5%,85.0%,95.0%,5.0%
+89,Information and Communication Technology,,Total,Number,6616,6280,,87,323,814,2111,3780,5377,5945,335
+90,Information and Communication Technology,,Total,Percentage,,,54.0,1.4%,5.1%,13.0%,33.6%,60.2%,85.6%,94.7%,5.3%
+91,Literature in English,,Male,Number,28,23,,0,0,1,4,11,18,19,4
+92,Literature in English,,Male,Percentage,,,-,0.0%,0.0%,4.3%,17.4%,47.8%,78.3%,82.6%,17.4%
+93,Literature in English,,Female,Number,194,181,,6,19,47,102,157,171,175,6
+94,Literature in English,,Female,Percentage,,,-,3.3%,10.5%,26.0%,56.4%,86.7%,94.5%,96.7%,3.3%
+95,Literature in English,,Total,Number,222,204,,6,19,48,106,168,189,194,10
+96,Literature in English,,Total,Percentage,,,-,2.9%,9.3%,23.5%,52.0%,82.4%,92.6%,95.1%,4.9%
+97,Mathematics,Compulsory Part,Male,Number,26908,25841,,655,2357,5049,11239,16268,21539,23795,2046
+98,Mathematics,Compulsory Part,Male,Percentage,,,45.9,2.5%,9.1%,19.5%,43.5%,63.0%,83.4%,92.1%,7.9%
+99,Mathematics,Compulsory Part,Female,Number,24422,23654,,176,956,2744,8536,14079,19744,21953,1701
+100,Mathematics,Compulsory Part,Female,Percentage,,,40.3,0.7%,4.0%,11.6%,36.1%,59.5%,83.5%,92.8%,7.2%
+101,Mathematics,Compulsory Part,Total,Number,51330,49495,,831,3313,7793,19775,30347,41283,45748,3747
+102,Mathematics,Compulsory Part,Total,Percentage,,,43.2,1.7%,6.7%,15.7%,40.0%,61.3%,83.4%,92.4%,7.6%
+103,Mathematics,Extended Part (Calculus and Statistics),Male,Number,2105,1914,,84,257,586,1011,1362,1676,1814,100
+104,Mathematics,Extended Part (Calculus and Statistics),Male,Percentage,,,26.8,4.4%,13.4%,30.6%,52.8%,71.2%,87.6%,94.8%,5.2%
+105,Mathematics,Extended Part (Calculus and Statistics),Female,Number,1423,1313,,31,134,357,632,912,1127,1240,73
+106,Mathematics,Extended Part (Calculus and Statistics),Female,Percentage,,,18.7,2.4%,10.2%,27.2%,48.1%,69.5%,85.8%,94.4%,5.6%
+107,Mathematics,Extended Part (Calculus and Statistics),Total,Number,3528,3227,,115,391,943,1643,2274,2803,3054,173
+108,Mathematics,Extended Part (Calculus and Statistics),Total,Percentage,,,23.5,3.6%,12.1%,29.2%,50.9%,70.5%,86.9%,94.6%,5.4%
+109,Mathematics,Extended Part (Algebra and Calculus),Male,Number,5267,4857,,191,818,1831,2996,3932,4485,4726,131
+110,Mathematics,Extended Part (Algebra and Calculus),Male,Percentage,,,24.2,3.9%,16.8%,37.7%,61.7%,81.0%,92.3%,97.3%,2.7%
+111,Mathematics,Extended Part (Algebra and Calculus),Female,Number,2133,1983,,37,154,505,1030,1496,1801,1934,49
+112,Mathematics,Extended Part (Algebra and Calculus),Female,Percentage,,,26.3,1.9%,7.8%,25.5%,51.9%,75.4%,90.8%,97.5%,2.5%
+113,Mathematics,Extended Part (Algebra and Calculus),Total,Number,7400,6840,,228,972,2336,4026,5428,6286,6660,180
+114,Mathematics,Extended Part (Algebra and Calculus),Total,Percentage,,,24.8,3.3%,14.2%,34.2%,58.9%,79.4%,91.9%,97.4%,2.6%
+115,Music,,Male,Number,91,90,,5,18,34,68,77,88,90,0
+116,Music,,Male,Percentage,,,3.3,5.6%,20.0%,37.8%,75.6%,85.6%,97.8%,100.0%,0.0%
+117,Music,,Female,Number,92,90,,0,2,14,43,70,89,90,0
+118,Music,,Female,Percentage,,,10.0,0.0%,2.2%,15.6%,47.8%,77.8%,98.9%,100.0%,0.0%
+119,Music,,Total,Number,183,180,,5,20,48,111,147,177,180,0
+120,Music,,Total,Percentage,,,6.7,2.8%,11.1%,26.7%,61.7%,81.7%,98.3%,100.0%,0.0%
+121,Physical Education,,Male,Number,1068,1031,,2,11,30,142,436,725,918,113
+122,Physical Education,,Male,Percentage,,,89.9,0.2%,1.1%,2.9%,13.8%,42.3%,70.3%,89.0%,11.0%
+123,Physical Education,,Female,Number,316,310,,2,7,15,67,151,233,279,31
+124,Physical Education,,Female,Percentage,,,80.3,0.6%,2.3%,4.8%,21.6%,48.7%,75.2%,90.0%,10.0%
+125,Physical Education,,Total,Number,1384,1341,,4,18,45,209,587,958,1197,144
+126,Physical Education,,Total,Percentage,,,87.7,0.3%,1.3%,3.4%,15.6%,43.8%,71.4%,89.3%,10.7%
+127,Physics,,Male,Number,8872,8363,,266,1050,2505,4335,6300,7574,8143,220
+128,Physics,,Male,Percentage,,,38.3,3.2%,12.6%,30.0%,51.8%,75.3%,90.6%,97.4%,2.6%
+129,Physics,,Female,Number,3688,3453,,60,264,744,1530,2449,3073,3374,79
+130,Physics,,Female,Percentage,,,34.1,1.7%,7.6%,21.5%,44.3%,70.9%,89.0%,97.7%,2.3%
+131,Physics,,Total,Number,12560,11816,,326,1314,3249,5865,8749,10647,11517,299
+132,Physics,,Total,Percentage,,,37.1,2.8%,11.1%,27.5%,49.6%,74.0%,90.1%,97.5%,2.5%
+133,Technology and Living,Food Science and Technology,Male,Number,47,43,,0,0,0,2,7,20,30,13
+134,Technology and Living,Food Science and Technology,Male,Percentage,,,97.7,0.0%,0.0%,0.0%,4.7%,16.3%,46.5%,69.8%,30.2%
+135,Technology and Living,Food Science and Technology,Female,Number,139,136,,2,6,15,30,71,113,129,7
+136,Technology and Living,Food Science and Technology,Female,Percentage,,,69.1,1.5%,4.4%,11.0%,22.1%,52.2%,83.1%,94.9%,5.1%
+137,Technology and Living,Food Science and Technology,Total,Number,186,179,,2,6,15,32,78,133,159,20
+138,Technology and Living,Food Science and Technology,Total,Percentage,,,76.0,1.1%,3.4%,8.4%,17.9%,43.6%,74.3%,88.8%,11.2%
+139,Technology and Living,"Fashion, Clothing and Textiles",Male,Number,10,8,,0,0,0,1,3,4,8,0
+140,Technology and Living,"Fashion, Clothing and Textiles",Male,Percentage,,,100.0,0.0%,0.0%,0.0%,12.5%,37.5%,50.0%,100.0%,0.0%
+141,Technology and Living,"Fashion, Clothing and Textiles",Female,Number,39,38,,0,1,3,10,29,37,37,1
+142,Technology and Living,"Fashion, Clothing and Textiles",Female,Percentage,,,68.4,0.0%,2.6%,7.9%,26.3%,76.3%,97.4%,97.4%,2.6%
+143,Technology and Living,"Fashion, Clothing and Textiles",Total,Number,49,46,,0,1,3,11,32,41,45,1
+144,Technology and Living,"Fashion, Clothing and Textiles",Total,Percentage,,,73.9,0.0%,2.2%,6.5%,23.9%,69.6%,89.1%,97.8%,2.2%
+145,Tourism and Hospitality Studies,,Male,Number,2057,1876,,8,30,67,238,582,1315,1649,227
+146,Tourism and Hospitality Studies,,Male,Percentage,,,90.9,0.4%,1.6%,3.6%,12.7%,31.0%,70.1%,87.9%,12.1%
+147,Tourism and Hospitality Studies,,Female,Number,2602,2465,,15,64,156,492,1077,1961,2283,182
+148,Tourism and Hospitality Studies,,Female,Percentage,,,87.9,0.6%,2.6%,6.3%,20.0%,43.7%,79.6%,92.6%,7.4%
+149,Tourism and Hospitality Studies,,Total,Number,4659,4341,,23,94,223,730,1659,3276,3932,409
+150,Tourism and Hospitality Studies,,Total,Percentage,,,89.2,0.5%,2.2%,5.1%,16.8%,38.2%,75.5%,90.6%,9.4%
+151,Visual Arts,,Male,Number,939,887,,1,8,29,119,284,625,799,88
+152,Visual Arts,,Male,Percentage,,,84.4,0.1%,0.9%,3.3%,13.4%,32.0%,70.5%,90.1%,9.9%
+153,Visual Arts,,Female,Number,3043,2968,,27,94,229,825,1730,2625,2850,118
+154,Visual Arts,,Female,Percentage,,,83.7,0.9%,3.2%,7.7%,27.8%,58.3%,88.4%,96.0%,4.0%
+155,Visual Arts,,Total,Number,3982,3855,,28,102,258,944,2014,3250,3649,206
+156,Visual Arts,,Total,Percentage,,,83.9,0.7%,2.6%,6.7%,24.5%,52.2%,84.3%,94.7%,5.3%
+157,All Category A subjects# (except Citizenship and Social Development),,Male,Number,135203,129412,,2343,8405,19390,46382,79047,108480,120999,8413
+158,All Category A subjects# (except Citizenship and Social Development),,Male,Percentage,,,49.9,1.8%,6.5%,15.0%,35.8%,61.1%,83.8%,93.5%,6.5%
+159,All Category A subjects# (except Citizenship and Social Development),,Female,Number,126594,122170,,1566,6386,16332,45540,79256,106492,116589,5581
+160,All Category A subjects# (except Citizenship and Social Development),,Female,Percentage,,,46.5,1.3%,5.2%,13.4%,37.3%,64.9%,87.2%,95.4%,4.6%
+161,All Category A subjects# (except Citizenship and Social Development),,Total,Number,261797,251582,,3909,14791,35722,91922,158303,214972,237588,13994
+162,All Category A subjects# (except Citizenship and Social Development),,Total,Percentage,,,48.3,1.6%,5.9%,14.2%,36.5%,62.9%,85.4%,94.4%,5.6%
